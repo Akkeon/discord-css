@@ -1,13 +1,3 @@
-/**Background**/
-body {
-    background: url('https://i.imgur.com/cPk3uJl.jpg') rgba(0, 0, 0, 0);
-    background-size: 1920px 1080px;
-}
-
-/**Background opacity**/
-.app-19_DXt {
-    background: rgba(0, 0, 0, 0.87) !important;
-}
 /**General Transparency**/
 .theme-dark, 
 .theme-dark 
