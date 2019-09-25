@@ -1,11 +1,11 @@
-@import url("https://raw.githubusercontent.com/Boernthebred/discord-css/master/mainf.css")
 /**Background**/
 body {
-    background: url('BACKGROUND URL') rgba(0, 0, 0, 0);
+    background:url('https://i.imgur.com/cPk3uJl.jpg') rgba(0, 0, 0, 0);
     background-size: 1920px 1080px;
 }
-
 /**Background opacity**/
 .app-19_DXt {
     background: rgba(0, 0, 0, 0.87) !important;
 }
+
+@import url('https://raw.githubusercontent.com/Boernthebred/discord-css/master/mainf.css')
