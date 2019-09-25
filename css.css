@@ -1,8 +1,10 @@
-@import url(https://github.com/Boernthebred/discord-css/blob/master/main.css);
+@import url(https://raw.githubusercontent.com/Boernthebred/discord-css/master/main.css);
 /**Background**/
 
 :root {
-    --background-image: url(https://i.imgur.com/cPk3uJl.jpg);
-    --background-px: 1920x 1080x;
+    --background-url: url(https://i.imgur.com/cPk3uJl.jpg);
+    --background-height: 1920px;
+    --background-thiccness: 1080px;
+    --background-opacity: rgba(0, 0, 0, 0.87);
 }
 
