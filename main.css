@@ -9,6 +9,7 @@ body {
     background-size: var(--background-size);
 }
 
+
 /**Background opacity**/
 .app-19_DXt {
     background: var(--background-opacity) !important;
