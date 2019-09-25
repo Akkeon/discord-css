@@ -1,6 +1,7 @@
 @import url(https://raw.githubusercontent.com/Boernthebred/discord-css/master/main.css);
-/**Background**/
 
+
+/* settings */
 :root {
     --background-url: url(https://i.imgur.com/cPk3uJl.jpg);
     --background-height: 1920px;
