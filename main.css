@@ -7,7 +7,7 @@
 
 body {
     background: var(--background-url) rgba(0, 0, 0, 0);
-    background-size: var(--background-thiccnes) var(--background-height);
+    background-size: var(--background-thiccness) var(--background-height);
 }
 
 /**Background opacity**/
