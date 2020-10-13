@@ -1,5 +1,5 @@
 @import url(https://boernthebred.github.io/discordcss/main.css);
-
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css);
 /**/
 /* settings */
 :root {
@@ -7,4 +7,9 @@
     --background-width: 1920px;
     --background-height: 1080px;
     --background-opacity: rgba(0, 0, 0, 0.87);
+    
+    --columns:			1;
+    --guildsize:		50;
+    --guildgap:			3;
+    --aligndms:			0;
 }
